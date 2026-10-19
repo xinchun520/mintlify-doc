@@ -17,9 +17,7 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "quickstart",
-          "release-notes",
-          "doc/7/6/5/4/3/2/1/release-notes"
+          "quickstart"
         ]
       }
     ],
